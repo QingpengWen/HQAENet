@@ -77,7 +77,7 @@ python run_once.py --datasetName "mosi" --do_evaluation True --modelName gqa_net
 ```
 Result
 
-![image-20250725205450100](figure\image-20250725205450100.png)
+<img src="figure\image-20250725205450100.png"/>
 
 - #### **CMU-MOSEI**
 
@@ -91,7 +91,7 @@ python run_once.py --datasetName "mosei" --do_evaluation True --modelName gqa_ne
 ```
 Result
 
-![image-20250725212214156](figure\image-20250725212214156.png)
+<img src="figure\image-20250725212214156.png"/>
 
 - #### **CH-SIMS**
 
@@ -106,7 +106,7 @@ python run_once.py --datasetName "sims" --do_evaluation True --modelName gqa_net
 
 Result
 
-![image-20250725205314796](figure\image-20250725205314796.png)
+<img src="figure\image-20250725205314796.png"/>
 
 ## Training
 
