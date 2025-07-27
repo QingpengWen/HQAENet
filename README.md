@@ -18,7 +18,7 @@ Specifically, we make the following three contributions:
 
 The **Sentiment Cues Chain** shown below is one of the key contributions of this work:
 
-<img src="D:\Document\论文\HQAE_for_MMSA\code\ReproducibleCodes\figure\figure2.png" style="zoom:48%;" />
+<img src="figure\figure2.png" style="zoom:48%;" />
 
 
 
@@ -59,6 +59,10 @@ Assume your data structure to be like this (using `sha1sum` command to verify SH
 python preprocess/normalize_sims.py
 ```
 
+## Codes Access
+
+To protect the originality of our work, we have open-sourced the code in Anonymous GitHub repository: 
+
 ## Evaluation
 
 - #### **CMU-MOSI**
@@ -73,7 +77,7 @@ python run_once.py --datasetName "mosi" --do_evaluation True --modelName gqa_net
 ```
 Result
 
-![image-20250725205450100](D:\Document\论文\HQAE_for_MMSA\code\ReproducibleCodes\figure\image-20250725205450100.png)
+![image-20250725205450100](figure\image-20250725205450100.png)
 
 - #### **CMU-MOSEI**
 
@@ -87,7 +91,7 @@ python run_once.py --datasetName "mosei" --do_evaluation True --modelName gqa_ne
 ```
 Result
 
-![image-20250725212214156](D:\Document\论文\HQAE_for_MMSA\code\ReproducibleCodes\figure\image-20250725212214156.png)
+![image-20250725212214156](figure\image-20250725212214156.png)
 
 - #### **CH-SIMS**
 
@@ -102,7 +106,7 @@ python run_once.py --datasetName "sims" --do_evaluation True --modelName gqa_net
 
 Result
 
-![image-20250725205314796](D:\Document\论文\HQAE_for_MMSA\code\ReproducibleCodes\figure\image-20250725205314796.png)
+![image-20250725205314796](figure\image-20250725205314796.png)
 
 ## Training
 
