@@ -59,10 +59,6 @@ Assume your data structure to be like this (using `sha1sum` command to verify SH
 python preprocess/normalize_sims.py
 ```
 
-## Codes Access
-
-To protect the originality of our work, we have open-sourced the code in Anonymous GitHub repository: 
-
 ## Evaluation
 
 - #### **CMU-MOSI**
