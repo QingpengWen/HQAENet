@@ -1,5 +1,5 @@
 # HQAENet
-> **Enhancing the Quality of Multimodal Sentiment Analysis via High-Quality Affect Enhancement Network (AAAI 2026, Submission 21141)**
+> **Enhancing the Quality of Multimodal Sentiment Analysis via High-Quality Affect Enhancement Network (IEEE TMM-026554, Submission 026554)**
 
 ## Authors' Statement
 We encourage open-source and reproducibility work in the AI community and will not set any obstacles to reproducing the performance claimed in our work. However, we strongly oppose any academic misconduct related to plagiarism or theft of our work.
